@@ -1,0 +1,33 @@
+Requirement 1:
+
+mvn exec:java -Dexec.mainClass=me.jh.whyspring.CardApplication -Dexec.args="birthday John"
+
+outputs:
+
+    )  (  )  (
+   (^)(^)(^)(^)
+   _i__i__i__i_
+  (____________)
+  |####|>o<|###|
+  (____________) 
+
+Happy birthday John
+
+Requirement 2:
+
+mvn exec:java -Dexec.mainClass=me.jh.whyspring.CardApplication -Dexec.args="xmas Jane"
+
+prints:
+
+   ,--.
+  ()   \
+   /    \
+ _/______\_
+(__________)
+(/  @  @  \)
+(`._,()._,')
+(  `-'`-'  )
+ \        /
+  \,,,,,,/
+
+Merry Christmas Jane
