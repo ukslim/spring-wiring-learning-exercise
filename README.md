@@ -113,3 +113,7 @@ fashion. To really understand Spring, you need to learn about:
  - auto-wiring and component scanning - in which, instead of specifying
    an exact bean in configuration, you allow Spring to find a bean that
    fits
+
+Attributions/Comments/Questions
+-------------------------------
+john.hartnup@gmail.com
